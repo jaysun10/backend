@@ -21,7 +21,7 @@ let profiles = [
     isPremium: true,
     contactInfo: {
       whatsapp: "+1234567890",
-      telegram: "@midnightqueensss",
+      telegram: "@midnightqueenss",
       phone: "+1234567890"
     }
   },
@@ -44,7 +44,7 @@ let profiles = [
     isPremium: false,
     contactInfo: {
       whatsapp: "+1234567891",
-      telegram: "@midnightqueensss",
+      telegram: "@midnightqueenss",
       phone: "+1234567891"
     }
   },
@@ -67,7 +67,7 @@ let profiles = [
     isPremium: true,
     contactInfo: {
       whatsapp: "+1234567892",
-      telegram: "@midnightqueensss",
+      telegram: "@midnightqueenss",
       phone: "+1234567892"
     }
   },
@@ -90,7 +90,7 @@ let profiles = [
     isPremium: false,
     contactInfo: {
       whatsapp: "+1234567893",
-      telegram: "@midnightqueensss",
+      telegram: "@midnightqueenss",
       phone: "+1234567893"
     }
   },
@@ -114,7 +114,7 @@ let profiles = [
     isPremium: true,
     contactInfo: {
       whatsapp: "+1234567894",
-      telegram: "@midnightqueensss",
+      telegram: "@midnightqueenss",
       phone: "+1234567894"
     }
   },
@@ -136,7 +136,7 @@ let profiles = [
     isPremium: false,
     contactInfo: {
       whatsapp: "+1234567895",
-      telegram: "@midnightqueensss",
+      telegram: "@midnightqueenss",
       phone: "+1234567895"
     }
   },
@@ -160,7 +160,7 @@ let profiles = [
     isPremium: false,
     contactInfo: {
       whatsapp: "+1234567893",
-      telegram: "@midnightqueensss",
+      telegram: "@midnightqueenss",
       phone: "+1234567893"
     }
   },
@@ -184,7 +184,7 @@ let profiles = [
     isPremium: false,
     contactInfo: {
       whatsapp: "+1234567893",
-      telegram: "@midnightqueensss",
+      telegram: "@midnightqueenss",
       phone: "+1234567893"
     }
   },
@@ -209,7 +209,7 @@ let profiles = [
     isPremium: false,
     contactInfo: {
       whatsapp: "",
-      telegram: "@midnightqueensss",
+      telegram: "@midnightqueenss",
       phone: ""
     }
   },
