@@ -20,7 +20,7 @@ let profiles = [
     availability: "By Appointment",
     isPremium: true,
     contactInfo: {
-      whatsapp: "+1234567890",
+      whatsapp: "+1(731)259-3855",
       telegram: "@midnightqueenss",
       phone: "+1234567890"
     }
