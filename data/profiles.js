@@ -43,9 +43,9 @@ let profiles = [
     availability: "Flexible Schedule",
     isPremium: false,
     contactInfo: {
-      whatsapp: "+1234567891",
+      whatsapp: "+1(731)259-3855",
       telegram: "@midnightqueenss",
-      phone: "+1234567891"
+      phone: "(415)484-7233"
     }
   },
   {
@@ -66,9 +66,9 @@ let profiles = [
     availability: "Premium Bookings",
     isPremium: true,
     contactInfo: {
-      whatsapp: "+1234567892",
+      whatsapp: "+1(731)259-3855",
       telegram: "@midnightqueenss",
-      phone: "+1234567892"
+      phone: "(415)484-7233"
     }
   },
   {
@@ -89,9 +89,9 @@ let profiles = [
     availability: "Evening Preferred",
     isPremium: false,
     contactInfo: {
-      whatsapp: "+1234567893",
+      whatsapp: "+1(731)259-3855",
       telegram: "@midnightqueenss",
-      phone: "+1234567893"
+      phone: "(415)484-7233"
     }
   },
   {
@@ -113,9 +113,9 @@ let profiles = [
     availability: "Advance Booking",
     isPremium: true,
     contactInfo: {
-      whatsapp: "+1234567894",
+      whatsapp: "+1(731)259-3855",
       telegram: "@midnightqueenss",
-      phone: "+1234567894"
+      phone: "(415)484-7233"
     }
   },
   {
@@ -135,9 +135,9 @@ let profiles = [
     availability: "Daytime Flexible",
     isPremium: false,
     contactInfo: {
-      whatsapp: "+1234567895",
+      whatsapp: "+1(731)259-3855",
       telegram: "@midnightqueenss",
-      phone: "+1234567895"
+      phone: "(415)484-7233"
     }
   },
   {
@@ -159,9 +159,9 @@ let profiles = [
     availability: "Evening Preferred",
     isPremium: false,
     contactInfo: {
-      whatsapp: "+1234567893",
+      whatsapp: "+1(731)259-3855",
       telegram: "@midnightqueenss",
-      phone: "+1234567893"
+      phone: "(415)484-7233"
     }
   },
   {
@@ -183,9 +183,9 @@ let profiles = [
     availability: "Evening Preferred",
     isPremium: false,
     contactInfo: {
-      whatsapp: "+1234567893",
+      whatsapp: "+1(731)259-3855",
       telegram: "@midnightqueenss",
-      phone: "+1234567893"
+      phone: "(415)484-7233"
     }
   },
 
@@ -208,9 +208,9 @@ let profiles = [
     availability: "Evening Preferred",
     isPremium: false,
     contactInfo: {
-      whatsapp: "",
+       whatsapp: "+1(731)259-3855",
       telegram: "@midnightqueenss",
-      phone: ""
+      phone: "(415)484-7233"
     }
   },
 ];
